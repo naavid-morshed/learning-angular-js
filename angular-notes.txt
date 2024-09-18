@@ -1,0 +1,14 @@
+Features of AngularJS:
+    1. 2 way data binding
+    2. templating
+    3. DOM interaction
+    4. Filter
+    5. Directives
+    6. Expressions
+    7. Controllers
+    8. Views and Routing
+    9. Form Validation
+   10. Animations
+
+Things I've learned:
+    1. 
